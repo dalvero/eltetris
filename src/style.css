@@ -1,0 +1,16 @@
+body {
+    text-align : center;
+    background : black;
+}
+
+#my-canvas {
+    background : #fff;
+    margin-left : 10px;
+    margin-top : 10px;
+}
+
+.container {
+    width : 30%;
+    height: 600px;
+    background-color : salmon;
+}
