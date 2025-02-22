@@ -36,11 +36,11 @@ let isPaused = false;
 let isRestart = false;
 
 // BACKSOUND
-const bgMusic = new Audio("bg/mainBg.wav");
-const clearLineSound = new Audio("bg/deleteLineBg.wav");
-const rotateSound = new Audio("bg/rotationBg.wav");
-const gameOverSound = new Audio("bg/gameOverBg.wav");
-const touchFloorSound = new Audio("bg/touchFloorBg.wav");
+const bgMusic = new Audio("src/bg/mainBg.wav");
+const clearLineSound = new Audio("src/bg/deleteLineBg.wav");
+const rotateSound = new Audio("src/bg/rotationBg.wav");
+const gameOverSound = new Audio("src/bg/gameOverBg.wav");
+const touchFloorSound = new Audio("src/bg/touchFloorBg.wav");
 
 // LOOPING BACKSOUND
 bgMusic.loop = true;
